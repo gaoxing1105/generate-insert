@@ -1,0 +1,8 @@
+# Created on 2018-08-06
+
+/.idea
+/bin
+/lib
+
+pyvenv.cfg
+pip-selfcheck.json
